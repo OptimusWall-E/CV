@@ -75,7 +75,7 @@ Branding and marketing is analytical before it is creative. Its foundation is wh
 - Test-driven development
 - MVC apps, DDD
 - Agile/Extreme Programming (XP)
-- Languages: Ruby, Rails, JavaScript, React, SQL, Java
+- Languages: Ruby, Rails, JavaScript, React, SQL, Java, Python
 - Testing frameworks: RSpec, Jasmine
 
 #### Your University / College (start_date to end_date)
