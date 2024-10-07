@@ -1,6 +1,6 @@
 ## Michael Maiga
 
-Hi, my name is Michael. I'm a junior developer interested in making impactful products. I'm a Makers Academy graduate and have a lot about how to put a full-stack together in a team. I love the intellectual challenge of tech and love improving.
+Hi, my name is Michael. I'm a junior developer interested in making impactful products. I'm a Makers Academy graduate and have studied how to put a full-stack app together in a team. I love the intellectual challenge of tech and love improving.
 
 ## Projects
 
@@ -13,13 +13,11 @@ Hi, my name is Michael. I'm a junior developer interested in making impactful pr
 
 
 ### Teaching - helping people understand
-
 #### Business English Teaching and CV writing, self-employed (2015 - present)			                   
-I create and teach bespoke English courses to help non-native business people perform better at work in English. Companies include: BBC, EY, KPMG, Goldman Sachs, Amazon and Banco Sabadell. Placed a client as senior marketing manager at Amazon through CV writing and interview practice services. I run an English teaching Twitter account, @EnglishUpskill (posting since August 2021). TESOL certified.
+I create and teach bespoke English courses to help non-native business people perform better at work in English. Companies include: BBC, EY, KPMG, Goldman Sachs, Amazon and Banco Sabadell. Placed a client as senior marketing manager at Amazon through CV writing and interview practice services. 
 
-#### Proofreader, PhDs and Masters dissertations, self-employed, (2016 - 2019)		           		           
+#### Academic tutor (PhDs, Masters), proof reader (PhDs and Masters dissertations), self-employed, (2016 - present)		           		           
 I proofread advanced research on a very wide range of topics. This took a lot of research due to both the range of topics and that the client’s English was usually non-native. The result was always a clear thesis.
-
 
 ### Research and writing - communicating facts
 #### Freelance Journalism (2013 - 2021) 								                        
@@ -51,23 +49,35 @@ I served members of the public in desperate need of help with debt. I would make
 
 ## Skills
 
+#### Communication, being a team player, empathy
+During our final project, communication broke down numerous times. I helped make different team members feel heard by voicing what I felt was their point of view openly in the group. This allowed us to discuss and overcome the issues as I felt the antagonism was built on misunderstanding. I continued to check in with people throughout the project.
+
+#### Listening, understanding others
+My first task as a business English teacher is to make my student feel comfortable. They often take classes because they feel inadequate and stupid at work (having been very competent at work in their own languages). Making them feel understood and safe is the basis for helping them progress, thus building their confidence. I've helped all my students overcome hurdles they couldn't on their own (eliminate written mistakes in email correspondence, interview successfully, present in meetings confidently, understand spoken English, etc). I've had students from the BBC, Goldman Sachs, EY, KPMG, Amazon, Banco Sabadell, Fitch and many more.
 
 #### Fact-finding, fact-checking
 I frequently wrote for an expert audience while I was brand new to the topic. The foundation was always curiosity and research: reading what was already published, summarising the current problem area, modelling the choices, trade-offs and stakes, then interviewing people who were in a position to know or give informed opinions and communicating what I found in a clear way. I've written for the Financial Times, Green Futures, Hackney Citizen, Retail Jeweller and more.
-
-#### Being a team player, empathy
-During our final project, communication broke down numerous times. I helped make different team members feel heard by voicing what I felt was their point of view openly in the group. This allowed us to discuss and overcome the issues as I felt the antagonism was built on misunderstanding. I continued to check in with people throughout the project.
-
-#### Understanding others
-My first task as a business English teacher is to make my student feel comfortable. They often take classes because they feel inadequate and stupid at work (having been very competent at work in their own languages). Making them feel understood and safe is the basis for helping them progress, thus building their confidence. I've helped all my students overcome hurdles they couldn't on their own (eliminate written mistakes in email correspondence, interview successfully, present in meetings confidently, understand spoken English, etc). I've had students from the BBC, Goldman Sachs, EY, KPMG, Amazon, Banco Sabadell, Fitch and many more.
 
 In journalism, your readers are your users. Journalism is ultimately about relevance to others. What is important to them, what they know and what they want/need is the starting point for what stories you can tell. 
 
 #### Analysis
 Branding and marketing is analytical before it is creative. Its foundation is who the customer is, what pain they have and what your solution is. Many clients struggle to articulate this, so I love the joy they feel when I express their vision in words more clearly than they can. I then develop messaging which is credible, distinctive and persuasive. The best messaging is so clear different stakeholders can ‘think with it’ and it helps them coordinate the work between teams. I've done branding and marketing for diverse clients from small London-based luxury fashion start-ups through to the Government of Japan.
 
+#### Continuous learning, curiosity
+I am always drawn towards learning something new (as a teacher part of your job is learning. I own over 1000 books). Makers was part of this desire. I have just finished a DevOps specialisation to explore new areas of technology I didn't know before and am now enrolled on a graduate certificate in computer science on the machine learning and artificial development specialism which I will study in my own time around my job. My passion for and curiosity about teaching and learning extends to all forms of intelligence. I feel grateful that I can invest time into to making this my actual job.
 
 ## Education
+
+#### Makers Academy DevOps (May 2021 - September 2021)
+
+- CI/CD
+- Containerisation (Docker)
+- AWS (EC2, IAM, S3, Elastic Beanstalk)
+- Observability (Athena, Cloud Watch)
+- Automation (Terraform, GitHub Actions)
+- Orchestration (Kubernetes)
+- Security
+- Reliability
 
 #### Makers Academy (May 2021 - September 2021)
 - Learned to teach myself to code, model problems and solve them with code
@@ -80,6 +90,13 @@ Branding and marketing is analytical before it is creative. Its foundation is wh
 
 #### Your University / College (start_date to end_date)
 
+- Graduate Certificate in Computer Science: Machine Learning and Artificial Intelligece (distance), University of London International (Oct 2024 - Mar 2025)
+modules include:
+Artificial Intelligence: symbolic representations, modelling, task learning and game playing.
+Databases and Advanced Data Techniques: SQL (advanced data representation, advanced queries and linking), NoSQL (data pipelines) open data sources, different data formats, gathering and cleaning data, data security
+Machine Learning and Neural Networks: extracting useful insights from data, regression, classification, clustering, matrix completion and pattern recognition, training and optimising neural networks, supervised and unsupervised learning, deep learning
+Programming with Data: Python, getting data from a variety of sources and visualising data in compelling, informative ways. Processing data to make it useful and shareable, and reasoning with data to test hypotheses and make parameterised predictions.
+
 - Diploma, Philosophy, University of London International (distance) (2007 – 2008)
 - MSc Development Studies, London School of Economics	(2005 – 2006)  
 - Year Abroad, History, Paris IV, Sorbonne (2003 – 2004)
@@ -88,4 +105,4 @@ Branding and marketing is analytical before it is creative. Its foundation is wh
 
 ## Hobbies
 
-I'm very interested in both teaching and learning methods and love discussing them and comparing notes. I also love philosophy, ideas and anything that helps me understand myself and/or other people (psychology, anthropology, history, etc).
+I'm very interested in both teaching and learning methods and love discussing them and comparing notes. I've recently discovered this passion extends to artificial intelligence and machine learning. I also love philosophy, ideas and anything that helps me understand myself and/or other people (psychology, anthropology, history, etc).
